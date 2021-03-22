@@ -1,0 +1,11 @@
+{
+	"DisplayName": "LowGravity",
+	"UniqueID": "54a1eb0e-f440-4672-999a-a8d0ca0521df",
+	"MainDLLFileName": "LowGravity.dll",
+	"Author": "X606",
+	"Version": 0,
+	"ImageFileName": "Image.png",
+	"Description": "Lowers the gravity, you can also change it by typing in setGravity <number> in the console",
+	"ModDependencies": [],
+	"Tags": []
+}

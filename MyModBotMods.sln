@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMod", "TemplateMod\TemplateMod.csproj", "{9618A247-EA53-4146-9CBB-4EC4639AF5FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMod1", "TestMod1\TestMod1.csproj", "{F4478FCA-E4DD-41F7-97DC-032CDC9554B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowGravity", "LowGravity\LowGravity.csproj", "{BE7BFC44-1CA4-48F8-B292-F21983880B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9618A247-EA53-4146-9CBB-4EC4639AF5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9618A247-EA53-4146-9CBB-4EC4639AF5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9618A247-EA53-4146-9CBB-4EC4639AF5FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F4478FCA-E4DD-41F7-97DC-032CDC9554B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4478FCA-E4DD-41F7-97DC-032CDC9554B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4478FCA-E4DD-41F7-97DC-032CDC9554B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4478FCA-E4DD-41F7-97DC-032CDC9554B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7BFC44-1CA4-48F8-B292-F21983880B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7BFC44-1CA4-48F8-B292-F21983880B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7BFC44-1CA4-48F8-B292-F21983880B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7BFC44-1CA4-48F8-B292-F21983880B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
