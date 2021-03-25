@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1685060324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a5200fe1281ae53f51f83fcdfd7c0ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/CustomLava/LavaMaterial.mat
+Dependencies: []

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 947811797
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: customlava
+      Dependencies: {}

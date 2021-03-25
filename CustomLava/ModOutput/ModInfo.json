@@ -1,0 +1,11 @@
+{
+	"DisplayName": "Custom Lava shader",
+	"UniqueID": "43451808-c5f7-43ba-ac5f-6bbb9cc1eec3",
+	"MainDLLFileName": "CustomLava.dll",
+	"Author": "X606",
+	"Version": 0,
+	"ImageFileName": "Image.png",
+	"Description": "Overrides the lava shader in the game!",
+	"ModDependencies": [],
+	"Tags": []
+}

@@ -5,7 +5,7 @@
 	"Author": "X606",
 	"Version": 0,
 	"ImageFileName": "Image.png",
-	"Description": "Lowers the gravity, you can also change it by typing in setGravity <number> in the console",
+	"Description": "Lowers the gravity, you can also change it in the mod settings window",
 	"ModDependencies": [],
 	"Tags": []
 }
