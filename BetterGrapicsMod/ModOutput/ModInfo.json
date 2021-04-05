@@ -1,0 +1,11 @@
+{
+	"DisplayName": "BetterGrapicsMod",
+	"UniqueID": "4c7d48b0-7e4a-4879-b5ce-1802a9d7c2c0",
+	"MainDLLFileName": "BetterGrapicsMod.dll",
+	"Author": "X606",
+	"Version": 1,
+	"ImageFileName": "Picture.png",
+	"Description": "A mod that adds more grapics settings, becuse doborog doesnt have enough by defualt.",
+	"ModDependencies": [],
+	"Tags": []
+}
